@@ -15,8 +15,6 @@ Analista de Logística apaixonado por dados e estudante de Física. Com experiê
 
 ### 🛠️ Tecnologias e Ferramentas
 
-### 🛠️ Tecnologias e Ferramentas
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
