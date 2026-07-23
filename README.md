@@ -31,5 +31,5 @@ Analista de Logística apaixonado por dados e estudante de Física. Com experiê
 
 ### 📫 Como me encontrar
 
-* **LinkedIn:** [https://www.linkedin.com/in/gabriel-cardoso-de-moraes-9129451a7/]
-* **E-mail:** [gabriel_cardoso_moraes@hotmail.com]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cardoso-de-moraes-9129451a7/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel_cardoso_moraes@hotmail.com)
