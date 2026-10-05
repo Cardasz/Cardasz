@@ -25,8 +25,8 @@ My goal is to keep developing technically while building solutions that connect 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>&nbsp;&nbsp;
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gabriel-cardoso-de-moraes-9129451a7"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>&nbsp;&nbsp;
+  <a href="mailto:gabriel_cardoso_moraes@hotmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="48"/></a>&nbsp;&nbsp;
   <a href="https://github.com/Cardasz"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/></a>
 </p>
 
