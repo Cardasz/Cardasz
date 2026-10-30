@@ -59,7 +59,7 @@ My goal is to keep developing technically while building solutions that connect 
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/elen-c-sales/elen-c-sales/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-## eatured Projects
+## Featured Projects
 
 ### [🚚 Fleet Ops Dashboard](https://github.com/Cardasz/fleet-ops-dashboard)
 An interactive operational dashboard for road-freight fleet management, tracking monthly revenue targets, vehicle idleness, and driver compliance (rest-day and vacation alerts). Originally a single-file prototype, it was rebuilt as a professional repository: fully typed, modular, with the business rules isolated in pure functions and covered by automated unit tests.
