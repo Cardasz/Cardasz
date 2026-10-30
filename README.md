@@ -4,7 +4,7 @@
   </a>
 </div>
 
-## 🙋‍♂️ About Me
+## About Me
 
 I'm a Junior BI Analyst focused on transforming data into practical insights, reliable processes, and decision-support solutions. My current work combines Power BI, SQL, Python, and Excel, with a strong interest in data integration, automation, data modeling, and business-oriented analytics.
 
@@ -12,7 +12,7 @@ I currently work at Transpanorama/G10, bringing together my experience in logist
 
 My goal is to keep developing technically while building solutions that connect data, technology, and real business needs.
 
-## 🚀 Quick Facts
+## Quick Facts
 
 - 📊 **BI & Data Analysis:** Power BI, DAX, SQL, Excel and data modeling
 - 🐍 **Python:** automation, ETL/ELT, data processing and integrations
@@ -22,7 +22,7 @@ My goal is to keep developing technically while building solutions that connect 
 - 🎓 **Education:** Data Science Technology Degree — UNINTER
 - 🎸 **Fun fact:** Outside data, I'm a guitarist and technology enthusiast
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-cardoso-de-moraes-9129451a7"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/></a>&nbsp;&nbsp;
@@ -30,7 +30,7 @@ My goal is to keep developing technically while building solutions that connect 
   <a href="https://github.com/Cardasz"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48"/></a>
 </p>
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Data & Business Intelligence
 <p align="left">
@@ -51,7 +51,7 @@ My goal is to keep developing technically while building solutions that connect 
   <img src="https://skillicons.dev/icons?i=azure,windows" alt="Cloud" />
 </p>
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elen-c-sales/elen-c-sales/output/github-contribution-grid-snake-dark.svg">
@@ -59,7 +59,14 @@ My goal is to keep developing technically while building solutions that connect 
   <img align="center" alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/elen-c-sales/elen-c-sales/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-## 🏆 Featured Projects
+## eatured Projects
+
+### [🚚 Fleet Ops Dashboard](https://github.com/Cardasz/fleet-ops-dashboard)
+An interactive operational dashboard for road-freight fleet management, tracking monthly revenue targets, vehicle idleness, and driver compliance (rest-day and vacation alerts). Originally a single-file prototype, it was rebuilt as a professional repository: fully typed, modular, with the business rules isolated in pure functions and covered by automated unit tests.
+
+The data layer is a 650-vehicle fully synthetic dataset, prepared by a Python script that converts the source Excel into CSV and generates reproducible HR fields — no real company or personal data is used. A GitHub Actions pipeline runs the tests and deploys automatically to GitHub Pages: [live demo](https://cardasz.github.io/fleet-ops-dashboard/).
+
+**Technologies:** `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `Recharts`, `Vitest`, `GitHub Actions`, `Python` and `pandas`
 
 ### [📊 Operational Stability Analysis](https://github.com/Cardasz/operational-stability-analysis)
 This project applies descriptive statistics techniques to analyze the operational time stability of a machine fleet. Designed to address a business problem in operations—determining whether productive capacity is predictable (stable) or erratic (risky)—the pipeline processes frequency distributions to extract measures of central tendency and dispersion.
@@ -80,7 +87,7 @@ A collection of programming exercises and problem-solving challenges developed d
 
 The repository serves as a practical record of continuous learning and technical development.
 
-## 📚 What I'm Currently Learning
+## What I'm Currently Learning
 
 I'm continuously expanding my knowledge in:
 - Advanced Python for data engineering and automation
